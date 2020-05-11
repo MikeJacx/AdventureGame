@@ -1,0 +1,6 @@
+C:\Users\MIchael Jackson\Documents\Visual Code work\SonsGame\SonsGame\bin\Debug\SonsGame.exe.config
+C:\Users\MIchael Jackson\Documents\Visual Code work\SonsGame\SonsGame\bin\Debug\SonsGame.exe
+C:\Users\MIchael Jackson\Documents\Visual Code work\SonsGame\SonsGame\bin\Debug\SonsGame.pdb
+C:\Users\MIchael Jackson\Documents\Visual Code work\SonsGame\SonsGame\obj\Debug\SonsGame.csprojAssemblyReference.cache
+C:\Users\MIchael Jackson\Documents\Visual Code work\SonsGame\SonsGame\obj\Debug\SonsGame.exe
+C:\Users\MIchael Jackson\Documents\Visual Code work\SonsGame\SonsGame\obj\Debug\SonsGame.pdb
